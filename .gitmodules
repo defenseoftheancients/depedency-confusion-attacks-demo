@@ -1,0 +1,6 @@
+[submodule "depedency-confusion-private-package"]
+	path = depedency-confusion-private-package
+	url = https://github.com/defenseoftheancients/depedency-confusion-private-package.git
+[submodule "depedency-confusion-public-package"]
+	path = depedency-confusion-public-package
+	url = https://github.com/defenseoftheancients/depedency-confusion-public-package.git
